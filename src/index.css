@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+    background-color: #ffcc00; /* Yellow background */
+    color: #000; /* Black text */
+  }
